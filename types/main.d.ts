@@ -27,7 +27,7 @@ export interface SiteStatusType extends SiteDaysStatus {
   // 详细数据
   days: SiteDaysStatus[];
   // 站点链接
-  url?: string;
+  // url?: string;
 }
 
 // monitors result
